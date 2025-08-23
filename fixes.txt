@@ -1,1 +1,1 @@
-fixed some buges 
+fixed some bug
